@@ -9,7 +9,8 @@ UserSettings/
 MemoryCaptures/
 
 # Visual Studio cache
-.vs/
+.vscode/
+.vsconfig
 *.csproj
 *.unityproj
 *.sln
